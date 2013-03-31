@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of sphinxsearch.
 
+## 0.1.1:
+
+* Change `suggests` to `depends` for cookbooks used in `sphinxsearch::source`
+
 ## 0.1.0:
 
 * Initial release of sphinxsearch
